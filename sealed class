@@ -1,0 +1,7 @@
+public sealed class MySealedClass
+{
+    public void MyMethod()
+    {
+        Console.WriteLine("Abdul Sattar");
+    }
+}
