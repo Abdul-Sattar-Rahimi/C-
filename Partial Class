@@ -1,0 +1,15 @@
+public partial class MyPartialClass
+{
+    public void MethodA()
+    {
+        Console.WriteLine("Method A");
+    }
+}
+
+public partial class MyPartialClass
+{
+    public void MethodB()
+    {
+        Console.WriteLine("Method B");
+    }
+}
